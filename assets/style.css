@@ -25,3 +25,12 @@
     --primary-color: #013456;
     --accent-color: #FAD405;
 }
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 81px;
+    max-width: 1231px;
+    margin: 0 auto;
+    font-family: 'Istok Web';
+}
