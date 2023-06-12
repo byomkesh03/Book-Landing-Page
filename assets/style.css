@@ -20,3 +20,8 @@
     src: url(font/Poppins-Bold.ttf);
     font-weight: 700;
 }
+
+:root {
+    --primary-color: #013456;
+    --accent-color: #FAD405;
+}
