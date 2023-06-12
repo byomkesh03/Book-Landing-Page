@@ -58,3 +58,10 @@
     align-items: center;
     margin-right: 5px;
 }
+
+.header_navigation a {
+    text-decoration: none;
+    margin-left: 29px;
+    font-size: 36px;
+    color: var(--primary-color);
+}
