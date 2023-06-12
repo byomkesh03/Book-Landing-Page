@@ -51,3 +51,10 @@
 .header .plane-ico {
     color: var(--accent-color);
 }
+
+.header_navigation {
+    display: flex;
+    height: 52px;
+    align-items: center;
+    margin-right: 5px;
+}
