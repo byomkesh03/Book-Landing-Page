@@ -14,3 +14,9 @@
     src: url(font/Poppins-Light.ttf);
     font-weight: 200;
 }
+
+@font-face {
+    font-family: 'Poppins';
+    src: url(font/Poppins-Bold.ttf);
+    font-weight: 700;
+}
