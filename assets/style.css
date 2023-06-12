@@ -2,3 +2,9 @@
     font-family: 'Istok Web';
     src: url(font/IstokWeb-Regular.ttf);
 }
+
+@font-face {
+    font-family: 'Istok Web';
+    src: url(font/IstokWeb-Bold.ttf);
+    font-weight: 700;
+}
