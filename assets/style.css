@@ -8,3 +8,9 @@
     src: url(font/IstokWeb-Bold.ttf);
     font-weight: 700;
 }
+
+@font-face {
+    font-family: 'Poppins';
+    src: url(font/Poppins-Light.ttf);
+    font-weight: 200;
+}
