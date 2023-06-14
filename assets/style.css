@@ -70,3 +70,13 @@
 .header .close-ico {
     display: none;
 }
+
+.wrapper {
+    display: flex;
+}
+
+.wrapper aside {
+    width: 50%;
+    margin-top: 46px;
+    position: relative;
+}
