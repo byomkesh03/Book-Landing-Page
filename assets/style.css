@@ -87,3 +87,11 @@ main {
     max-width: 575px;
 }
 
+main h1 {
+    color: var(--primary-color);
+    font-size: 48px;
+    font-weight: 700;
+    font-family: 'Poppins';
+    margin-top: 0;
+    margin-bottom: 14px;
+}
