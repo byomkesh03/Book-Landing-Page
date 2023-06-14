@@ -202,3 +202,10 @@ main p {
         display: none;
         z-index: 1;
     }
+
+    .header_navigation a {
+        color: var(--accent-color);
+        display: block;
+        text-align: center;
+        margin: 20px 0;
+    }
