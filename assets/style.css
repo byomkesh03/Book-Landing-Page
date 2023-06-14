@@ -209,3 +209,11 @@ main p {
         text-align: center;
         margin: 20px 0;
     }
+
+    .header .menu-ico {
+        display: block;
+        font-size: 30px;
+        line-height: 45px;
+        color: var(--primary-color);
+        cursor: pointer;
+    }
