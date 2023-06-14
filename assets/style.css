@@ -158,3 +158,10 @@ main p {
         flex-direction: column;
         align-items: center;
     }
+
+    main,
+    .wrapper aside {
+        width: 90%;
+        max-width: 100%;
+        margin-top: 20px;
+    }
