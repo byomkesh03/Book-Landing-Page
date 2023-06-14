@@ -190,3 +190,15 @@ main p {
     main p {
         font-size: 16px;
     }
+
+    .header_navigation {
+        position: absolute;
+        background-color: var(--primary-color);
+        top: 0;
+        left: 0;
+        padding-top: 50px;
+        width: 100%;
+        height: 100%;
+        display: none;
+        z-index: 1;
+    }
