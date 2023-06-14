@@ -3,5 +3,4 @@ function toggleMenu(displayState) {
      const closeIco = document.getElementById('close-ico');
     nav.style.display = displayState;
     closeIco.style.display = displayState;
-   
 }
