@@ -130,3 +130,15 @@ main p {
     font-weight: 700;
     color: white;
 }
+
+.book_circle {
+    width: 785px;
+    height: 785px;
+    background-color: var(--accent-color);
+    border-radius: 50%;
+    position: absolute;
+    right: 83px;
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+}
