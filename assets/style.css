@@ -217,3 +217,12 @@ main p {
         color: var(--primary-color);
         cursor: pointer;
     }
+
+    .header .close-ico {
+        z-index: 1;
+        font-size: 30px;
+        position: absolute;
+        top: 20px;
+        right: 20px;
+        color: var(--accent-color);
+    }
