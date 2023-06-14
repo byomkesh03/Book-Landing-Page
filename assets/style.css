@@ -122,3 +122,11 @@ main p {
     font-weight: 700;
     color: var(--primary-color);
 }
+
+.button_read-more {
+    background-color: var(--primary-color);
+    font-size: 32px;
+    font-family: 'Poppins';
+    font-weight: 700;
+    color: white;
+}
