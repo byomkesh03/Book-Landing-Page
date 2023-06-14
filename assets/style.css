@@ -165,3 +165,8 @@ main p {
         max-width: 100%;
         margin-top: 20px;
     }
+
+    .book {
+        height: 300px;
+        margin-bottom: 0px;
+    }
