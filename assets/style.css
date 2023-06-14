@@ -114,3 +114,11 @@ main p {
     border-radius: 50px;
     border: none;
 }
+
+.button_buy-now {
+    background-color: var(--accent-color);
+    font-size: 32px;
+    font-family: 'Poppins';
+    font-weight: 700;
+    color: var(--primary-color);
+}
