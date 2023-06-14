@@ -142,3 +142,8 @@ main p {
     justify-content: center;
     align-items: center;    
 }
+
+.book {
+    height: 785px;
+    margin-bottom: 54px;
+}
