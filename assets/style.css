@@ -234,3 +234,8 @@ main p {
     .button_buy-now, .button_read-more {
         font-size: 16px;
     }
+
+    .buttons button {
+        padding: 16px 25px;
+    }
+}
