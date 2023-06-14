@@ -108,3 +108,9 @@ main p {
     justify-content: space-between;
     margin-bottom: 20px;
 }
+
+.buttons button {
+    padding: 16px 47px;
+    border-radius: 50px;
+    border: none;
+}
