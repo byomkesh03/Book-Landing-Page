@@ -226,3 +226,7 @@ main p {
         right: 20px;
         color: var(--accent-color);
     }
+
+    .header .plane-ico {
+        display: none;
+    }
