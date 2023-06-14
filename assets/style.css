@@ -178,3 +178,7 @@ main p {
         width: 100%;
         margin: 0 auto;
     }
+
+    .book_circle img {
+        max-width: 150px;
+    }
