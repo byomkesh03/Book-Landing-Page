@@ -95,3 +95,10 @@ main h1 {
     margin-top: 0;
     margin-bottom: 14px;
 }
+
+main p {
+    font-size: 20px;
+    font-family: 'Poppins';
+    font-weight: 100;
+    margin-bottom: 50px;
+}
