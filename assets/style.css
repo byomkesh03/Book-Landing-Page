@@ -147,3 +147,9 @@ main p {
     height: 785px;
     margin-bottom: 54px;
 }
+
+@media screen and (max-width: 1400px) {
+    .header {
+        width: 90%;
+        padding-top: 20px;
+    }
