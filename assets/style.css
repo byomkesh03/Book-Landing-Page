@@ -80,3 +80,10 @@
     margin-top: 46px;
     position: relative;
 }
+
+main {
+    width: 50%;
+    margin-top: 91px;
+    max-width: 575px;
+}
+
