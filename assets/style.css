@@ -131,6 +131,7 @@ main p {
     color: white;
 }
 
+ /*
 .book_circle {
     width: 785px;
     height: 785px;
@@ -147,8 +148,6 @@ main p {
     height: 785px;
     margin-bottom: 54px;
 }
-
-
 
 @media screen and (max-width: 1400px) {
     .header {
@@ -211,8 +210,6 @@ main p {
         text-align: center;
         margin: 20px 0;
     }
-
-    /*
 
     .header .menu-ico {
         display: block;
