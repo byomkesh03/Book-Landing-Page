@@ -161,6 +161,8 @@ main p {
         align-items: center;
     }
 
+
+     /*
     main,
     .wrapper aside {
         width: 90%;
@@ -186,8 +188,6 @@ main p {
     .book_circle img {
         max-width: 150px;
     }
-
-    /*
 
     main h1 {
         font-size: 24px;
