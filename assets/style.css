@@ -148,7 +148,7 @@ main p {
     margin-bottom: 54px;
 }
 
-/*
+
 
 @media screen and (max-width: 1400px) {
     .header {
@@ -172,6 +172,8 @@ main p {
         height: 300px;
         margin-bottom: 0px;
     }
+
+    /*
 
     .book_circle {
         position: initial;
