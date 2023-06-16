@@ -156,13 +156,13 @@ main p {
         padding-top: 20px;
     }
 
+      /*
+
     .wrapper {
         flex-direction: column;
         align-items: center;
     }
 
-
-     /*
     main,
     .wrapper aside {
         width: 90%;
