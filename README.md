@@ -45,6 +45,12 @@ This landing page website is a pixel-perfect representation of a Figma design ta
 - Figma design link you can find [here](https://www.figma.com/community/file/1133800374992117329).
 
 
+## Contact
+
+If you have any questions, suggestions, or feedback, feel free to contact me at byomkeshmahato03@gmail.com.
+
+
+
 
 
 
