@@ -37,9 +37,6 @@ Feel free to use this project as a template for your own book landing pages. Mod
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please submit an issue or create a pull request. Make sure to follow the existing code style and guidelines.
 
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 
 
