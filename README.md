@@ -41,7 +41,7 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 ## Acknowledgments
 
 This landing page website is a pixel-perfect representation of a Figma design taken from the Figma community.
-- Design inspiration: Figma Community
+- Design inspiration: [Figma Community](https://www.figma.com/community).
 - Figma design link you can find [here](https://www.figma.com/community/file/1133800374992117329).
 
 
