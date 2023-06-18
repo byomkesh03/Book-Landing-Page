@@ -13,8 +13,8 @@ You can find the live demo of the website [here](https://byomkesh03.github.io/Bo
 ## Features
 
 - Pixel-perfect implementation of the Figma design.
-- Responsive layout for various screen sizes.
-- Interactive elements and smooth animations.
+- Fully responsive layout for seamless viewing on different screen sizes.
+- Interactive elements and hover effects to engage visitors.
 
 ## Installation
 
