@@ -1,23 +1,23 @@
 @font-face {
     font-family: 'Istok Web';
-    src: url(font/IstokWeb-Regular.ttf);
+    src: url(../font/IstokWeb-Regular.ttf);
 }
 
 @font-face {
     font-family: 'Istok Web';
-    src: url(font/IstokWeb-Bold.ttf);
+    src: url(../font/IstokWeb-Bold.ttf);
     font-weight: 700;
 }
 
 @font-face {
     font-family: 'Poppins';
-    src: url(font/Poppins-Light.ttf);
+    src: url(../font/Poppins-Light.ttf);
     font-weight: 200;
 }
 
 @font-face {
     font-family: 'Poppins';
-    src: url(font/Poppins-Bold.ttf);
+    src: url(../font/Poppins-Bold.ttf);
     font-weight: 700;
 }
 
